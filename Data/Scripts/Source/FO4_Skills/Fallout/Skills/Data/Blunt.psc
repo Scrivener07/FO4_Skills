@@ -1,6 +1,6 @@
 Scriptname Fallout:Skills:Data:Blunt extends Fallout:Skills:Client
 import Fallout:Skills
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 

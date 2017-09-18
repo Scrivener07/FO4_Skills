@@ -1,6 +1,6 @@
 Scriptname Fallout:Skills:Display extends ObjectReference
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 

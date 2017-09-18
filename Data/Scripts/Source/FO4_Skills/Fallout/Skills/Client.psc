@@ -1,6 +1,6 @@
 Scriptname Fallout:Skills:Client extends Quest Hidden
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 import Papyrus:StringType
 
 UserLog Log

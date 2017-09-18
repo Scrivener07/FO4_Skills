@@ -1,6 +1,6 @@
 Scriptname Fallout:Skills:System extends Papyrus:Project:Modules:Required
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 import Papyrus:StringType
 
 UserLog Log

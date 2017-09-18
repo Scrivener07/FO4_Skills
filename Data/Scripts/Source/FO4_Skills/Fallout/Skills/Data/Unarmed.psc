@@ -1,6 +1,6 @@
 Scriptname Fallout:Skills:Data:Unarmed Extends Fallout:Skills:Client
 import Fallout:Skills
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 
 UserLog Log
